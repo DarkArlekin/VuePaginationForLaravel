@@ -1,4 +1,4 @@
-# vuepaginationforlaravel
+# Vue pagination for PHP framework Laravel
 
 ## Project setup
 ```
