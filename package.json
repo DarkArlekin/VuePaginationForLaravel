@@ -1,10 +1,31 @@
 {
-  "name": "vuepaginationforlaravel",
+  "name": "vue-pagination-for-laravel",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "keywords": [
+    "vue",
+    "pagination",
+    "laravel",
+    "vue pagination",
+    "vue pagination for laravel",
+    "vue-pagination-for-laravel"
+  ],
+  "description": "Vue pagination for PHP framework Laravel.",
+  "author": {
+    "name": "Yusif Zourab",
+    "email": "wordlearningpress@gmail.com"
+  },
+  "repository": "https://github.com/iLegion/Vue-List-Package.git",
+  "bugs": "https://github.com/iLegion/Vue-List-Package/issues",
+  "license": "MIT",
+  "files": [
+    "dist/*"
+  ],
+  "main": "./dist/vue-pagination-for-laravel.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "library-build": "vue-cli-service build --target lib --name vue-pagination-for-laravel src/main.js"
   },
   "dependencies": {
     "core-js": "^3.6.4",
