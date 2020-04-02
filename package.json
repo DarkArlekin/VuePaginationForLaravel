@@ -1,6 +1,6 @@
 {
-  "name": "vue-pagination-for-laravel",
-  "version": "0.1.0",
+  "name": "@ilegionxs/vue-pagination-for-laravel",
+  "version": "1.0.0",
   "private": false,
   "keywords": [
     "vue",
@@ -15,8 +15,8 @@
     "name": "Yusif Zourab",
     "email": "wordlearningpress@gmail.com"
   },
-  "repository": "https://github.com/iLegion/Vue-List-Package.git",
-  "bugs": "https://github.com/iLegion/Vue-List-Package/issues",
+  "repository": "https://github.com/iLegion/VuePaginationForLaravel.git",
+  "bugs": "https://github.com/iLegion/VuePaginationForLaravel/issues",
   "license": "MIT",
   "files": [
     "dist/*"
